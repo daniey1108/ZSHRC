@@ -1,0 +1,2 @@
+# ZSHRC
+my ZSHRC file
